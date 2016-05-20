@@ -1,3 +1,8 @@
+.container {
+    margin-left: auto;
+    margin-right: auto;
+}
+
 table.text-center th {
     text-align: center;
 }
@@ -5,7 +10,6 @@ table.text-center th {
 .table {
     margin-bottom: 40px;
 }
-
 
 .customer_select {    
     width: 42%;
@@ -16,7 +20,6 @@ table.text-center th {
     background-color: #f5f5f5;
     bottom: 0;
     height: 110px;
-    /*position: absolute;*/
     width: 100%;
     margin-top: 60px;
 }
@@ -26,4 +29,13 @@ footer p {
     padding-top: 40px;
     padding-bottom: 40px;
     margin-bottom: 40px;
+}
+
+.col-md-6 form {
+    padding-bottom: 30px;
+}
+
+.frontpage {
+    margin-top: 150px;
+    height: 200px;
 }

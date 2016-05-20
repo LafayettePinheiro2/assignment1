@@ -19,7 +19,7 @@ $accounts = get_all_accounts();
         <button class="btn btn-default btn-lg btn-block" type="button">Total number of accounts: <?php echo count($accounts); ?></button>
     </div>   
 
-<?php 
+    <?php 
     echo "<h2 class='text-center'>Customers and accounts</h2>";
     echo "<table class='table table-striped table-bordered table-hover text-center'>";
     echo "<thead><tr><th>Customer Id</th><th>Name</th><th>Surname</th><th>Birthdate</th><th>Accounts</th><th>Total Accounts</th><th>Sum of money</th></tr></thead>";

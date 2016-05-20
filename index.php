@@ -4,10 +4,12 @@
 
 
 <div class="container">
-    <div style="padding-top: 70px; padding-bottom: 70px;" class="row">
-        <h2>Assignment 1</h2>
-        <h2>Check readme.txt file</h2>
-        <h3>And navigate through the menu links</h3>
+    <div class="row home">
+        <div class="frontpage md-8 text-center">
+            <h2>Assignment 1</h2>
+            <h3>Check readme.txt file</h3>
+            <h4>And navigate through the menu links</h4>
+        </div>
     </div>
 </div>
 

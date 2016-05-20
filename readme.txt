@@ -1,6 +1,6 @@
 Assignment 1 of Programming for the Web 2.
 
-This application consists in main 3 pages.
+This application consists mainly in 3 pages.
 
    * Customers.php: display all customers registered at /files/customers.csv file, with the informations about 
 each customer and informations about each customers' account. When showing dinamic information, such as
@@ -24,6 +24,10 @@ or accounts.csv or transactions.csv under the folder files. To upload an account
 user id inside the csv file with the account. To upload an transaction , you need to put a valid account number
 inside the csv file with the transaction. The dates in any of this csv files that you may want to upload
 should be at the dd/mm/yyyy format.
+
+    There is files to test the upload under the directory files/upload-example. With one file to each kind of possible upload
+    (customers, accounts or transactions).
+
 
     - Example of valid customer.csv file to be uploaded for customers:        
         This is the format = [CUSTOMER_NAME], [CUSTOMER_SURNAME], [BIRTHDATE(dd/mm/yyyy)], [CUSTOMER_ADDRESS]
