@@ -1,0 +1,29 @@
+table.text-center th {
+    text-align: center;
+}
+
+.table {
+    margin-bottom: 40px;
+}
+
+
+.customer_select {    
+    width: 42%;
+    padding-bottom: 25px;
+}
+
+.footer {
+    background-color: #f5f5f5;
+    bottom: 0;
+    height: 110px;
+    /*position: absolute;*/
+    width: 100%;
+    margin-top: 60px;
+}
+
+footer p {
+    color: grey; 
+    padding-top: 40px;
+    padding-bottom: 40px;
+    margin-bottom: 40px;
+}
